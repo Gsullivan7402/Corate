@@ -24,6 +24,7 @@ To run the application locally:
 bash
 
 npm start
+```
 
 Contributing
 
