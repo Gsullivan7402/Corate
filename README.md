@@ -26,7 +26,7 @@ bash
 npm start
 ```
 
-Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -36,13 +36,13 @@ Contributions are what make the open-source community such an amazing place to l
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 
-Contact
+## Contact
 
     Garrett Sullivan - Project Owner/Developer
         📧 Email: gsullivan7402@gmail.com
         🔗 GitHub: Gsullivan7402
         🔗 LinkedIn: Garrett Sullivan
 
-License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
