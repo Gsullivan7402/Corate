@@ -43,7 +43,7 @@ sql
 npm start
 
 The application will be available at http://localhost:3000.
-#Usage
+# Usage
 
     Select a Template: Start by choosing a template that suits your needs.
     Customize: Use the editor to add your own text and images, and customize the layout.
