@@ -1,4 +1,4 @@
-##Corate
+## Corate
 
 Welcome to Corate, the intuitive website builder designed to empower individuals with little to no web development experience. With Corate, creating a professional and responsive website is simple and straightforward. Our platform uses modular components that ensure compatibility and ease of use, allowing you to craft your perfect website with minimal effort.
 Features
@@ -10,15 +10,15 @@ Features
     Customizable Elements: Adjust fonts, colors, and layouts to match your style.
     Image Handling: Upload and resize images seamlessly within the builder.
 
-#Getting Started
-#Prerequisites
+# Getting Started
+# Prerequisites
 
 Before you begin, ensure you have the following installed:
 
     Node.js
     npm (Node Package Manager)
 
-#Installation
+# Installation
 
 Clone the repository to your local machine:
 
@@ -49,7 +49,7 @@ The application will be available at http://localhost:3000.
     Customize: Use the editor to add your own text and images, and customize the layout.
     Preview and Publish: Preview your website and when you're ready, publish it to your domain with just a few clicks.
 
-#Contributing
+# Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -61,7 +61,7 @@ To contribute:
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 
-#License
+# License
 
 Distributed under the MIT License. See LICENSE for more information.
 Contact
