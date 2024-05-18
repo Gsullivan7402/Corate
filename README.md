@@ -1,71 +1,70 @@
-## Corate
+# Getting Started with Create React App
 
-Welcome to Corate, the intuitive website builder designed to empower individuals with little to no web development experience. With Corate, creating a professional and responsive website is simple and straightforward. Our platform uses modular components that ensure compatibility and ease of use, allowing you to craft your perfect website with minimal effort.
-Features
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-    Drag-and-Drop Interface: Easily place and rearrange components with our user-friendly drag-and-drop system.
-    Responsive Templates: Choose from a variety of modern, pre-designed templates that look great on any device.
-    Live Editing: See your changes in real time as you build your site.
-    Domain Integration: Check domain availability and publish your site directly from the builder.
-    Customizable Elements: Adjust fonts, colors, and layouts to match your style.
-    Image Handling: Upload and resize images seamlessly within the builder.
+## Available Scripts
 
-# Getting Started
-# Prerequisites
+In the project directory, you can run:
 
-Before you begin, ensure you have the following installed:
+### `npm start`
 
-    Node.js
-    npm (Node Package Manager)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Installation
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Clone the repository to your local machine:
+### `npm test`
 
-bash
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-git clone https://github.com/Gsullivan7402/Corate.git
+### `npm run build`
 
-Navigate to the project directory:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-bash
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-cd Corate
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Install the necessary dependencies:
+### `npm run eject`
 
-npm install
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Start the development server:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-sql
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-npm start
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-The application will be available at http://localhost:3000.
-# Usage
+## Learn More
 
-    Select a Template: Start by choosing a template that suits your needs.
-    Customize: Use the editor to add your own text and images, and customize the layout.
-    Preview and Publish: Preview your website and when you're ready, publish it to your domain with just a few clicks.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# Contributing
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+### Code Splitting
 
-To contribute:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-    Fork the Project
-    Create your Feature Branch (git checkout -b feature/AmazingFeature)
-    Commit your Changes (git commit -m 'Add some AmazingFeature')
-    Push to the Branch (git push origin feature/AmazingFeature)
-    Open a Pull Request
+### Analyzing the Bundle Size
 
-# License
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Distributed under the MIT License. See LICENSE for more information.
-Contact
+### Making a Progressive Web App
 
-Garrett - Gsullivan7402@gmail.com
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Project Link: https://github.com/Gsullivan7402/Corate
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
